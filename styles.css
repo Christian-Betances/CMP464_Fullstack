@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+#genre{
+    color:aqua;
+    background-color: black;
+    font-size: 20px;
+}
+
+td{
+    border: 6px yellow solid;
+}
+
+.games{
+    background-color: rgb(90, 89, 89);
+    color:yellow;
+    font-size: 40px;
+
+    border-right: yellow 10px solid;
+    border-left: yellow 10px solid;
+
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    border: 10px aquamarine solid;
+    border-radius: 2px;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: white;
+
+    margin-left: auto;  
+    margin-right: auto;  
+}
+
+h1{
+    color: white;
+    background-color: rgb(132, 78, 58);
+}
