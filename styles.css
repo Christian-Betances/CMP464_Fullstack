@@ -44,3 +44,12 @@ h1{
     color: white;
     background-color: rgb(132, 78, 58);
 }
+
+#sf6_body{
+    background-color: orange;
+}
+
+#sf6_heading{
+    background-color: black;
+    color: orange;
+}
