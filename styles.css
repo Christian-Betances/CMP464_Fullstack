@@ -4,49 +4,44 @@
 }
 
 body{
-    background-color: black;
+    background-image: url(https://media1.giphy.com/media/S8rEAbtG4WA2ULH7CH/200w.webp?cid=ecf05e47mqyh0q7un53meva9il0x9qarzz6bootdjln17g6q&ep=v1_gifs_search&rid=200w.webp&ct=g);
 }
 
 #genre{
-    color:aqua;
+    color:gold;
     background-color: black;
     font-size: 20px;
 }
 
 td{
-    border: 6px yellow solid;
+    border: gold 8px solid;
 }
 
 .games{
-    background-color: rgb(90, 89, 89);
-    color:yellow;
+    background-color:darkgray;
+    color:black;
     font-size: 40px;
 
-    border-right: yellow 10px solid;
-    border-left: yellow 10px solid;
+    border-right: black 10px solid;
+    border-left: black 10px solid;
 
     margin: 0;
     padding: 0;
 }
 
 table{
-    border: 10px aquamarine solid;
-    border-radius: 2px;
+
     text-align: center;
-    border-collapse: collapse;
-    background-color: white;
+    
+    background-color: black;
 
     margin-left: auto;  
     margin-right: auto;  
 }
 
 h1{
-    color: white;
-    background-color: rgb(132, 78, 58);
-}
-
-#sf6_body{
-    background-color: orange;
+    color: black;
+    background-color: gold;
 }
 
 #sf6_heading{
@@ -55,18 +50,10 @@ h1{
     text-align: center;
 }
 
-#hades_body{
-    background-color: red;
-}
-
 #hades_heading{
     background-color: black;
     color: red;
     text-align: center;
-}
-
-#nier_body{
-    background-color: white;
 }
 
 #nier_heading{
