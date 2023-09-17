@@ -52,4 +52,48 @@ h1{
 #sf6_heading{
     background-color: black;
     color: orange;
+    text-align: center;
+}
+
+#hades_body{
+    background-color: red;
+}
+
+#hades_heading{
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+
+#nier_body{
+    background-color: white;
+}
+
+#nier_heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.video{
+    display: block;
+    margin: auto;
+}
+
+.home_link{
+    background-color: gold;
+    position: absolute;
+    color: black;
+
+    font-size: 32px;
+    text-decoration: none;
+}
+
+.home_link:hover{
+    background-color: white;
+    position: absolute;
+    color: black;
+
+    font-size: 32px;
+    text-decoration: none;
 }
